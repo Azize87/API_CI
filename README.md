@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dg5leagf8powu1oj?svg=true)](https://ci.appveyor.com/project/Azize87/api-ci)
+# CI Demo [![Build status](https://ci.appveyor.com/api/projects/status/yvbhcnb6q2cng6a1?svg=true)](https://ci.appveyor.com/project/netology-code-samples/aqa-ci-demo)
